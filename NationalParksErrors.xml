@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark>
+<NationalPark xmlns="http://cse445.asu.edu/a4" 
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+          xsi:schemaLocation="http://cse445.asu.edu/a4
+          https://ivarnd.github.io/CSE445-Assignment4/NationalParks.xsd">
 <!-- Root Element Name is Wrong -->
 
   <!-- Grand Canyon - two names -->
